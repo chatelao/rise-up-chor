@@ -1,0 +1,10 @@
+Kapitel-Nr.,Hauptkapitel / Themenbereich,Liednummernbereich / Umfang,Kernthemen & typische Liedinhalte
+Teil 1,Gott loben und danken,Nr. 001 – 062,"Lobpreis, Anbetung, Dank, Schöpfungslob, Psalmvertonungen"
+Teil 2,Glauben und bekennen,Nr. 063 – 107,"Glaubensbekenntnis, Vertrauen, Identität in Christus, Zuspruch"
+Teil 3,Bitten und klagen,Nr. 108 – 154,"Kyrie-Rufe, Klage, Trauer, Fürbitte, Vergebung und Versöhnung"
+Teil 4,Zur Ruhe kommen,Nr. 155 – 191,"Taizé-Gesänge, meditative Kehrverse, Stille, Abend- und Nachtlieder"
+Teil 5,Gemeinschaft leben,Nr. 192 – 242,"Sendung, Nachfolge, Diakonie, Gerechtigkeit, Frieden, Gemeinschaftsmahl/Abendmahl"
+Teil 6,Im Jahreskreis,Nr. 243 – 327,"Advent, Weihnachten, Passion, Ostern, Himmelfahrt, Pfingsten"
+Teil 7,Im Lebenskreis,Nr. 328 – 362,"Taufe, Konfirmation/Firmung, Trauung, Abschied/Bestattung, Reisesegen"
+Teil 8,Liturgische Gesänge & Formeln,Nr. 363 – 388,"Halleluja-Rufe, Sanctus, Agnus Dei, Segensrufe, liturgische Akklamationen"
+Anhang,Register & Nachschlageverzeichnisse,Seiten 440–476,"Alphabetisches Titelverzeichnis, Bibelstellenregister, Sprachregister (DE, EN, FR, Mundart u. a.), Themen- & Autorenregister"
